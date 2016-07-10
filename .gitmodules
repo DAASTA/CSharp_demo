@@ -1,0 +1,6 @@
+[submodule "BeatBat"]
+	path = BeatBat
+	url = https://github.com/sugar10w/BeatBat
+[submodule "sxy2048"]
+	path = sxy2048
+	url = https://github.com/da-asta/sxy2048
